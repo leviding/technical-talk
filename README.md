@@ -2,9 +2,9 @@
 
 [![Travis](https://img.shields.io/badge/language-JavaScript-blue.svg)](https://developer.apple.com/.md)
 
-开源的现代 JavaScript 入门到进阶的优质教程。
+《现代 JavaScript 教程》是开源的现代 JavaScript 从入门到进阶的优质教程，它旨在帮助你逐渐掌握 JavaScript 这门语言。
 
-文章最新首发于微信公众号 **技术漫谈**，欢迎关注以订阅最新内容。
+文章首发于微信公众号 **技术漫谈**，欢迎关注以订阅最新内容。
 
 ## 汇总
 
@@ -21,7 +21,7 @@
 
 ## 和我交流
 
-- 邮箱：imdingxuewen@gmail.com
 - 微信：517010193
+- 邮箱：imdingxuewen@gmail.com
 
 ![公众号简洁尾图](https://user-images.githubusercontent.com/26959437/64472245-e68b6600-d18d-11e9-984a-ae0161dc2e69.png)
