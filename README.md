@@ -30,14 +30,3 @@
 - 邮箱：imdingxuewen@gmail.com
 
 ![公众号简洁尾图](https://user-images.githubusercontent.com/26959437/64472245-e68b6600-d18d-11e9-984a-ae0161dc2e69.png)
-
-
-<script type="text/javascript">
-	$(document).ready(function() {
-	    //为超链接加上 target='_blank' 属性
-		$('a[href^="http"]').each(function() {
-			$(this).attr('target', '_blank');
-		});
-	});
-</script>
-
