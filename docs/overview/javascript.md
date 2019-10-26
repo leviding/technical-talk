@@ -1,33 +1,15 @@
-<p align="center">
-  <a href="https://dingxuewen.com/technical-talk/">
-    <img width="200" src="https://user-images.githubusercontent.com/26959437/67540611-8d18cf80-f718-11e9-8aca-091e086fcac8.png">
-  </a>
-</p>
+# 现代 JavaScript 教程
 
-<h1 align="center">技术漫谈</h1>
+![JavaScript](https://user-images.githubusercontent.com/26959437/64472163-b55e6600-d18c-11e9-8417-c3ba5ace10ac.png)
 
-<div align="center">
+现代 JavaScript 教程是技术漫谈下属的开源技术内容之一，旨在帮助初中级前端提升 JavaScript 等前端技术水平。
 
-有知识，有温度，有态度。最新技术知识和技术趣闻，新一代技术人的聚集地。
-
-![JavaScript](https://img.shields.io/badge/language-JavaScript-blue.svg)
-![Travis](https://img.shields.io/badge/language-JavaScript-blue.svg)
-
-</div>
-
-本项目用于分享最新的技术知识和技术趣闻，文章首发于微信公众号「技术漫谈」，欢迎关注。
-
-
-## 现代 JavaScript 教程
-
-《现代 JavaScript 教程》是技术漫谈下属的开源技术内容之一，旨在帮助初中级前端提升 JavaScript 等前端技术水平。
+### 介绍
 
 《现代 JavaScript 教程》是 [React 官方文档推荐，与 MDN 并列](https://zh-hans.reactjs.org/docs/getting-started.html#javascript-resources)的 JavaScript 学习教程。此外，前端大佬[阮一峰](https://github.com/ruanyf/free-books#web-%E5%BC%80%E5%8F%91)和 [justjavac](https://github.com/justjavac/free-programming-books-zh_CN#javascript) 等也在 GitHub 上推荐了本教程。
 
 《现代 JavaScript 教程》以最新的 JavaScript 标准为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识的优质开源教程。
 
-
-## 汇总
 
 ### JavaScript 语言部分
 
@@ -49,12 +31,7 @@
 
 **详见**：https://dingxuewen.com/technical-talk/additional/
 
-
-## 补充
-
-**本仓库保持随时更新。**
-
-喜欢就 Star ❤️ 一下吧！
+<br/>
 
 ---
 
@@ -62,13 +39,4 @@
 
 <img src="https://user-images.githubusercontent.com/26959437/64472245-e68b6600-d18d-11e9-984a-ae0161dc2e69.png" width="100%">
 
-
-## Contact Me
-
-Mail: [imdingxuewen@gmail.com](mailto:imdingxuewen@gmail.com)
-
----
-
-> Blog: [dingxuewen.com](https://dingxuewen.com/) &nbsp;&middot;&nbsp;
-> GitHub: [@LeviDing](https://github.com/leviding) &nbsp;&middot;&nbsp;
-> Twitter: [@LeviDing](https://twitter.com/xuewending)
+<disqus />

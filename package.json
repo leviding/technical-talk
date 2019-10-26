@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "./deploy.sh"
+  },
+  "repository": "git+https://github.com/leviding/technical-talk.git",
+  "author": "LeviDing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leviding/technical-talk/issues"
+  },
+  "name": "leetcode-js-leviding",
+  "description": "技术漫谈：最新技术知识和技术趣闻",
+  "homepage": "https://github.com/leviding/technical-talk#readme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-google-analytics": "^1.0.3",
+    "vuepress": "^1.2.0"
+  },
+  "keywords": [
+    "leetcode",
+    "javascript",
+    "leviding"
+  ]
+}
