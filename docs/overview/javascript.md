@@ -6,9 +6,9 @@
 
 ### 介绍
 
-《现代 JavaScript 教程》是 [React 官方文档推荐，与 MDN 并列](https://zh-hans.reactjs.org/docs/getting-started.html#javascript-resources)的 JavaScript 学习教程。此外，前端大佬[阮一峰](https://github.com/ruanyf/free-books#web-%E5%BC%80%E5%8F%91)和 [justjavac](https://github.com/justjavac/free-programming-books-zh_CN#javascript) 等也在 GitHub 上推荐了本教程。
+《现代 JavaScript 教程》是 [React 官方文档推荐，与 MDN 并列](https://zh-hans.reactjs.org/docs/getting-started.html#javascript-resources)的 JavaScript 学习教程。此外，[阮一峰](https://github.com/ruanyf/free-books#web-%E5%BC%80%E5%8F%91)和 [justjavac](https://github.com/justjavac/free-programming-books-zh_CN#javascript) 等前端大佬也在 GitHub 上推荐了本教程。
 
-《现代 JavaScript 教程》以最新的 JavaScript 标准为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识的优质开源教程。
+《现代 JavaScript 教程》以最新的 JavaScript 标准为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
 
 ### JavaScript 语言部分

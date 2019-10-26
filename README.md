@@ -11,7 +11,7 @@
 有知识，有温度，有态度。最新技术知识和技术趣闻，新一代技术人的聚集地。
 
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-blue.svg)
-![Travis](https://img.shields.io/badge/language-JavaScript-blue.svg)
+[![Build Status](https://travis-ci.com/leviding/technical-talk.svg?branch=master)](https://travis-ci.com/leviding/technical-talk)
 
 </div>
 
@@ -22,9 +22,11 @@
 
 《现代 JavaScript 教程》是技术漫谈下属的开源技术内容之一，旨在帮助初中级前端提升 JavaScript 等前端技术水平。
 
-《现代 JavaScript 教程》是 [React 官方文档推荐，与 MDN 并列](https://zh-hans.reactjs.org/docs/getting-started.html#javascript-resources)的 JavaScript 学习教程。此外，前端大佬[阮一峰](https://github.com/ruanyf/free-books#web-%E5%BC%80%E5%8F%91)和 [justjavac](https://github.com/justjavac/free-programming-books-zh_CN#javascript) 等也在 GitHub 上推荐了本教程。
+### 介绍
 
-《现代 JavaScript 教程》以最新的 JavaScript 标准为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识的优质开源教程。
+《现代 JavaScript 教程》是 [React 官方文档推荐，与 MDN 并列](https://zh-hans.reactjs.org/docs/getting-started.html#javascript-resources)的 JavaScript 学习教程。此外，[阮一峰](https://github.com/ruanyf/free-books#web-%E5%BC%80%E5%8F%91)和 [justjavac](https://github.com/justjavac/free-programming-books-zh_CN#javascript) 等前端大佬也在 GitHub 上推荐了本教程。
+
+《现代 JavaScript 教程》以最新的 JavaScript 标准为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
 
 ## 汇总
@@ -60,7 +62,7 @@
 
 所有文章首发于微信公众号「**技术漫谈**」，欢迎扫码关注，订阅更多精彩内容。
 
-<img src="https://user-images.githubusercontent.com/26959437/64472245-e68b6600-d18d-11e9-984a-ae0161dc2e69.png" width="100%">
+<img src="https://user-images.githubusercontent.com/26959437/64472245-e68b6600-d18d-11e9-984a-ae0161dc2e69.png" width="600px">
 
 
 ## Contact Me
