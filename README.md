@@ -52,6 +52,28 @@
 **详见**：https://dingxuewen.com/technical-talk/additional/
 
 
+## 本地阅读和开发
+
+基于 VuePress
+
+```bash
+// 安装
+$ yarn
+
+// 更新
+$ yarn upgrade
+
+// 开发
+$ yarn dev
+
+// 构建静态文件
+$ yarn build
+
+// 部署
+$ yarn deploy
+```
+
+
 ## 补充
 
 **本仓库保持随时更新。**
