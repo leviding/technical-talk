@@ -1,6 +1,6 @@
 # 文档（Document）
 
-在这儿，我们将学习如何使用 JavaScript 来操作网页。
+让我们来一起学习如何使用 JavaScript 来操作网页。
 
 
 ### 文章列表
