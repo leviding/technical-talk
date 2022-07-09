@@ -84,7 +84,7 @@ $ yarn deploy
 
 所有文章首发于微信公众号「**技术漫谈**」，欢迎扫码关注，订阅更多精彩内容。
 
-<img src="https://user-images.githubusercontent.com/26959437/64472245-e68b6600-d18d-11e9-984a-ae0161dc2e69.png" width="600px">
+<img src="https://user-images.githubusercontent.com/26959437/120764347-a3b91680-c54a-11eb-9a15-31bb2596b0db.png" width="600px">
 
 
 ## Contact Me
